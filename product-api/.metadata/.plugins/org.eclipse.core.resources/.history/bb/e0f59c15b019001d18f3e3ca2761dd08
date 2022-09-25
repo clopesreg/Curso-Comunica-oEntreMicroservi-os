@@ -1,0 +1,6 @@
+server:
+server.port: ${PORT:8081}
+
+spring:
+application:
+name: product-api
